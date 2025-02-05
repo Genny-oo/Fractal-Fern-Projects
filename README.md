@@ -1,1 +1,1 @@
-
+This project involved generating complex visual patterns using WPF, reinforcing my ability to work with graphical representations and optimize rendering performance—skills that directly apply to this Graph UI library.
